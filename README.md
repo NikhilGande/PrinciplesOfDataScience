@@ -19,3 +19,8 @@ b)data_clean(the data obtained after preprocessing)
 c)src( contains scripts for preprocessing and data analysis)
 d)result( contains results for data analysis)
 
+
+Note: The code for preprocessing and visualization , Python language is used. 
+Softwares required to run scripts
+a)Jupiter
+b)Python
